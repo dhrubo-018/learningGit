@@ -7,3 +7,6 @@ And these are the lines
 that need to be checked
 in the new diff command
 best of luck!
+
+Working in a new branch to see 
+how branching works in git.
