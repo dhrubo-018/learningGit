@@ -1,3 +1,9 @@
 abc
 
 this is the different newline!
+
+
+And these are the lines
+that need to be checked
+in the new diff command
+best of luck!
